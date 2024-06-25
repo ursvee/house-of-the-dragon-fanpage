@@ -5,3 +5,6 @@ I am a big fan of Game of Throne and House of the Dragon. So, I decided to make 
 
 ## Languages & libraries
 HTML5, CSS3, [Animate.css](https://animate.style/), [Animate On Scroll](https://michalsnik.github.io/aos/)
+
+## Live demo
+[https://ursvee.github.io/house-of-the-dragon-fanpage/](https://ursvee.github.io/house-of-the-dragon-fanpage/)
